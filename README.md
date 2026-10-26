@@ -1,17 +1,24 @@
-# CrackCatcher
+# CrackCatcher 🚧
 
-Road Surface Condition Classification Using CNN.
+**Road Surface Condition Classification Using CNN**
 
-## Project notebook
+CrackCatcher is a deep learning project designed to classify road surface conditions from images using a Convolutional Neural Network (CNN).
 
-The Google Colab/Jupyter notebook for this project is `Crack_Catcher.ipynb`.
+## Features
+- Road surface image classification
+- CNN-based deep learning model
+- Image preprocessing and model evaluation
+- Google Colab notebook for implementation and experimentation
 
-## Run
+## Technologies Used
+- Python
+- TensorFlow or PyTorch (depending on the notebook implementation)
+- CNN
+- Google Colab
+- NumPy, Matplotlib, and other required libraries
 
-1. Open the notebook in Google Colab.
-2. Run the cells from top to bottom.
-3. Follow the notebook instructions to download/load the dataset, train the CNN, and evaluate road-surface predictions.
+## Project Notebook
+Open `Crack_Catcher.ipynb` in Google Colab to view and run the project.
 
-## Note
-
-Model weights and datasets can be large; avoid committing generated datasets or checkpoints unless they are required.
+## Disclaimer
+Model performance depends on the dataset, training process, and evaluation method.
